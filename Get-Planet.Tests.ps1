@@ -3,7 +3,7 @@ BeforeAll {
   . $PSScriptRoot/Get-Planet.ps1
 }
 
-# Pester tests
+# Pester tests 
 Describe 'Get-Planet' {
   It "Given no parameters, it lists all 8 planets" {
     $allPlanets = Get-Planet
