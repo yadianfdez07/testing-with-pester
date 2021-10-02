@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE report PUBLIC "-//JACOCO//DTD Report 1.1//EN" "report.dtd"[]>
+<report name="Pester (10/01/2021 20:48:36)">
+  <sessioninfo id="this" start="1633121316908" dump="1633121316992" />
+  <package name="testing-with-pester">
+    <class name="testing-with-pester/Get-Planet" sourcefilename="Get-Planet.ps1">
+      <method name="Get-Planet" desc="()" line="2">
+        <counter type="INSTRUCTION" missed="0" covered="22" />
+        <counter type="LINE" missed="0" covered="11" />
+        <counter type="METHOD" missed="0" covered="1" />
+      </method>
+      <counter type="INSTRUCTION" missed="0" covered="22" />
+      <counter type="LINE" missed="0" covered="11" />
+      <counter type="METHOD" missed="0" covered="1" />
+      <counter type="CLASS" missed="0" covered="1" />
+    </class>
+    <sourcefile name="Get-Planet.ps1">
+      <line nr="2" mi="0" ci="1" mb="0" cb="0" />
+      <line nr="3" mi="0" ci="2" mb="0" cb="0" />
+      <line nr="4" mi="0" ci="2" mb="0" cb="0" />
+      <line nr="5" mi="0" ci="2" mb="0" cb="0" />
+      <line nr="6" mi="0" ci="2" mb="0" cb="0" />
+      <line nr="7" mi="0" ci="2" mb="0" cb="0" />
+      <line nr="8" mi="0" ci="2" mb="0" cb="0" />
+      <line nr="9" mi="0" ci="2" mb="0" cb="0" />
+      <line nr="10" mi="0" ci="2" mb="0" cb="0" />
+      <line nr="11" mi="0" ci="2" mb="0" cb="0" />
+      <line nr="13" mi="0" ci="3" mb="0" cb="0" />
+      <counter type="INSTRUCTION" missed="0" covered="22" />
+      <counter type="LINE" missed="0" covered="11" />
+      <counter type="METHOD" missed="0" covered="1" />
+      <counter type="CLASS" missed="0" covered="1" />
+    </sourcefile>
+    <counter type="INSTRUCTION" missed="0" covered="22" />
+    <counter type="LINE" missed="0" covered="11" />
+    <counter type="METHOD" missed="0" covered="1" />
+    <counter type="CLASS" missed="0" covered="1" />
+  </package>
+  <counter type="INSTRUCTION" missed="0" covered="22" />
+  <counter type="LINE" missed="0" covered="11" />
+  <counter type="METHOD" missed="0" covered="1" />
+  <counter type="CLASS" missed="0" covered="1" />
+</report>
